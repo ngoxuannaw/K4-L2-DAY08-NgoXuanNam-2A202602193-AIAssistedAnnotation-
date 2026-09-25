@@ -1,0 +1,5 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,khung gộp hai xe nhỏ phía xa bên trái,deleted,Hai xe sát nhau phải có hai khung riêng nên xóa khung gộp
+1,frame_0099.jpg,xe nhỏ thứ hai phía xa bên trái,added,Tách hai xe sát nhau thành hai khung riêng để mỗi xe có một khung
+1,frame_0107.jpg,xe hướng về camera ở làn trái giữa ảnh,edited,Kéo cạnh trên xuống để khung ôm sát thân xe và không lấy vùng sáng thừa
+1,frame_0331.jpg,xe nhỏ gần giữa ảnh,edited,Thu gọn chiều cao của khung để ôm sát phần thân xe nhìn thấy
